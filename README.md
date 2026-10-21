@@ -6,7 +6,7 @@
 [![Apache Badge](https://img.shields.io/badge/IESB-D22128?logo=apache&logoColor=fff&style=for-the-badge)](https://www.iesb.br/cursos/analise-e-desenvolvimento-de-sistemas/)
 <br>
 
-- 👋 Hi, I’m **@sergiobslva-iesb**
+- 👋 Hi, I’m **@sergiobslvadev**
 - 👀 I’m interested in Requeriments Analyst & Business, UX, Frontend  and Tech :)
 - 💞️ I'm looking to collaborate with the construction of tech and UX career mentoring
 - 📫 How to reach me: [61985016770](https://wa.link/mnbsyo)
