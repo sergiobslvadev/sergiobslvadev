@@ -14,7 +14,7 @@
 <br>
 
 ### My Development Toolbelt
-<br><img alt="Figma" title="" src="https://toppng.com/uploads/preview/jira-software-logo-jira-software-logo-11562914188wp8r59nt10.png" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Figma" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="26">
+<br><img alt="Jira Atlassian" title="" src="https://www.pngfind.com/pngs/m/432-4329261_jira-software-logo-jira-logo-hd-png-download.png" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Figma" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="26">
 &nbsp;&nbsp;&nbsp;&nbsp;<img alt="Adobe" title="Adobe" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-icon.png" height="26">
 &nbsp;&nbsp;&nbsp;&nbsp;<img alt="Photoshop" title="Photoshop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/3840px-Adobe_Photoshop_CC_icon.svg.png" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Marvel" title="Marvel" src="https://bk.ibxk.com.br/2016/2/programas/14944322201055867.png?ims=60x60" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="VS Code" title="VS Code" src="https://user-images.githubusercontent.com/1680157/87443751-492e6900-c5cc-11ea-9854-f82d4d921133.png" height="24">
 &nbsp;&nbsp;&nbsp;&nbsp;<img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png" height="24">
