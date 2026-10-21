@@ -14,7 +14,7 @@
 <br>
 
 ### My Development Toolbelt
-<br><img alt="Figma" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="26">
+<br><img alt="Figma" title="" src="https://toppng.com/uploads/preview/jira-software-logo-jira-software-logo-11562914188wp8r59nt10.png" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Figma" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="26">
 &nbsp;&nbsp;&nbsp;&nbsp;<img alt="Adobe" title="Adobe" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-icon.png" height="26">
 &nbsp;&nbsp;&nbsp;&nbsp;<img alt="Photoshop" title="Photoshop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/3840px-Adobe_Photoshop_CC_icon.svg.png" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Marvel" title="Marvel" src="https://bk.ibxk.com.br/2016/2/programas/14944322201055867.png?ims=60x60" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="VS Code" title="VS Code" src="https://user-images.githubusercontent.com/1680157/87443751-492e6900-c5cc-11ea-9854-f82d4d921133.png" height="24">
 &nbsp;&nbsp;&nbsp;&nbsp;<img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png" height="24">
@@ -28,63 +28,115 @@
 <img alt="MariaDB" title="MariaDB" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/mariadb.webp" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Google Firebase" title="Google Firebase" src="https://images.icon-icons.com/2699/PNG/512/firebase_logo_icon_171157.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="PostGrees" title="PostGrees" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png" height="24">
 <br><br>
 
-### Disciplines
+### Skills Estratégicas <br>
 
-###### [![Faculdade Badge](https://img.shields.io/badge/-CONCLUÍDO-lime)]() Semestre I - 01/2024
-- [x] [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() [RCT002 | Lógica de Programação](https://github.com/RCT002-Logica-de-Programacao)
-- [x] [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-white?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/alessandroborgesoficial/)](https://www.linkedin.com/in/alessandroborgesoficial/) [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() [ADS025 | Banco de Dados SQL e NoSQL](https://github.com/ADS025-Banco-de-Dados-SQL-e-no-SQL)
-- [x] [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-white?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/elias-filho-25b6a875/)](https://www.linkedin.com/in/elias-filho-25b6a875/) [![Nota Badge](https://img.shields.io/badge/-SS-YELLOWGREEN)]() [ADS009 | Projeto de Interface](https://github.com/ADS009-Projeto-de-Interface)
-- [x] [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-white?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/rubens-laurini-sant-anna-76645b26/)](https://www.linkedin.com/in/rubens-laurini-sant-anna-76645b26/) [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() HMDC134 | Levantamento de Requisitos e Modelagem de Processos
-- [x] [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() MDCI135 | Fundamentos de Lógica
+- [x] Requeriments Analyst & Business
+- [x] Visão sistêmica e estratégica do negócio
+- [x] Mapeamento e melhoria contínua de processos
+- [x] Identificação de problemas e análise de causa raiz
+- [x] Criação de Histórias de Usuário
+- [x] BDD
+- [x] Entendimento das necessidades dos clientes e usuários
+- [x] Priorização de demandas conforme valor de negócio
+- [x] Gestão de Backlog
+- [x] Análise de viabilidade e impacto das soluções
+- [x] Gestão e alinhamento de expectativas dos stakeholders
+- [x] Definição de indicadores de desempenho (KPIs)
+- [x] Gestão de mudanças organizacionais
+- [x] Tradução de objetivos de negócio em soluções tecnológicas
+- [x] Avaliação de benefícios, custos e retorno esperado das iniciativas
 
-###### [![Faculdade Badge](https://img.shields.io/badge/-CONCLUÍDO-lime)]() Semestre II - 02/2024 
-- [ ] [![Nota Badge](https://img.shields.io/badge/-MI-red)]() ADS042 | Probabilidade e Estatística
-- [x] [![Nota Badge](https://img.shields.io/badge/-MM-silver)]() ADS026 | Redes de Computadores
-- [x] [![Nota Badge](https://img.shields.io/badge/-MM-silver)]() ADS027 | Sistemas Operacionais
-- [x] [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() HMDC153 | Arquitetura de Computadores
-- [x] [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() MDCI082 | Tópicos de Matemática
+<br>
 
-##### [![Faculdade Badge](https://img.shields.io/badge/-CONCLUÍDO-lime)]()  Semetre III - 01/2025
-- [x] [![Nota Badge](https://img.shields.io/badge/-MM-silver)]() [ADS023 | Programação para Dispositivos Móveis](https://github.com/ADS023-Programacao-Dispositivos-Moveis)
-- [ ] [![Nota Badge](https://img.shields.io/badge/-MI-red)]() [ADS033 | Aprendizagem de Máquina](https://github.com/ADS033-Aprendizagem-de-Maquina)
-- [x] [![Nota Badge](https://img.shields.io/badge/-MM-silver)]() [ADS035 | Métricas e Arquitetura de Software](https://github.com/ADS035-Metricas-e-Arquitetura-de-Soft)
-- [x] [![Nota Badge](https://img.shields.io/badge/-SS-YELLOWGREEN)]() GEX011 | Projeto de Extensão na Educação Superior
-- [x] [![Nota Badge](https://img.shields.io/badge/-MM-silver)]() HMDC156 | Auditoria e Segurança no Desenvolvimento de Aplicações
-- [x] [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() MDCI057 | Empreendedorismo e Gestão de Carreira
+### Hard Skills <br>
+- [x] **Levantamento de requisitos:** identificar, elicitar e documentar necessidades e expectativas dos stakeholders.
+- [x] **Análise de negócios:** compreender processos, problemas, oportunidades e objetivos organizacionais.
+- [x] **Gestão de requisitos:** controlar versões, mudanças, prioridades, dependências e rastreabilidade dos requisitos.
+- [x] **Modelagem de processos de negócio:** utilizar BPMN, fluxogramas e diagramas para representar processos atuais e futuros (AS-IS e TO-BE).
+- [x] **Especificação funcional:** elaborar requisitos funcionais, não funcionais, regras de negócio e critérios de aceitação. Histórias de usuário: escrever User Stories, definir critérios de aceitação e apoiar a construção do Product Backlog.
+- [x] **Metodologias ágeis:** conhecer Scrum, Kanban, práticas de desenvolvimento ágil e métodos tradicionais.
+- [x] **Prototipação e documentação:** criar protótipos, wireframes, casos de uso e diagramas UML.
+- [x] **Análise de dados:** interpretar indicadores, métricas e informações para apoiar decisões de negócio.
+- [x] **Conhecimento em tecnologia:** compreender APIs, integrações entre sistemas, bancos de dados, SQL e arquitetura de soluções em nível compatível com a função.
+- [x] **Testes e validação:** apoiar testes funcionais, homologação, validação de requisitos e testes de aceitação do usuário (UAT).
+- [x] **Gestão de riscos e impactos:** avaliar impactos de mudanças nos processos, sistemas e operações.
+- [x] **Ferramentas de trabalho:** utilizar Jira, Confluence, Azure DevOps, Excel, ferramentas de modelagem e documentação.
 
-##### [![Faculdade Badge](https://img.shields.io/badge/-EM_ANDAMENTO-gold)]() Semetre IV - 02/2025
-- [ ] ADS022 | Eletiva
-- [ ] [ADS028 | Construção de Backend](https://github.com/ADS028-Contrucao-de-Backend)
-- [ ] [SIF005 | Estrutura de Dados](https://github.com/SIF005-Estrutura-de-Dados)
-- [ ] ADS034 | Engenharia de Software e Métodos Ágeis
-- [ ] GEX009 | Projeto de Extensão na Educação Superior
-- [ ] HMDC154 | Gerenciamento de Projetos e do Conhecimento
+<br>
 
-##### [![Faculdade Badge](https://img.shields.io/badge/-NÃO_CURSADO-red)]() Semetre V (FINAL) - 01/2026
-- [ ] ADS030 | Manutenção de Software e DevOps
-- [ ] ADS032 | Construção de Frontend
-- [ ] ADS040 | Business Intelligence e Data Warehousing
-- [ ] GEX010 | Projeto de Extensão na Educação Superior
-- [ ] HMDC155 | Governança de TI
-- [ ] MDCI023 | Direitos Humanos e Ambientais
+### Soft Skills <br>
+- [x] **Comunicação clara:** traduzir necessidades de negócio em informações compreensíveis para equipes técnicas e executivas.
+- [x] **Escuta ativa:** compreender necessidades explícitas e implícitas dos stakeholders.
+- [x] **Pensamento analítico e crítico:** avaliar informações, identificar inconsistências e propor soluções.
+- [x] **Resolução de problemas:** investigar causas e construir alternativas viáveis.
+- [x] **Negociação:** conciliar interesses, expectativas e prioridades divergentes.
+- [x] **Facilitação:** conduzir reuniões, entrevistas, workshops e sessões de levantamento de requisitos.
+- [x] **Organização:** manter documentação, registros e atividades estruturados.
+- [x] **Colaboração:** trabalhar em conjunto com desenvolvedores, QA, Product Owners, gestores e usuários.
+- [x] **Adaptabilidade:** lidar com mudanças de escopo, prioridades e necessidades.
+- [x] **Proatividade:** antecipar riscos, dependências e oportunidades de melhoria.
+- [x] **Gestão de conflitos:** mediar divergências e buscar consensos.
+- [x] **Orientação a resultados:** priorizar entregas que gerem valor para o negócio.
 
-<!---
-sergiobslvadev/sergiobslvadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br>
+
+### Top Languages (Frontend)
+
+<!-- Top Languages -->
+  <a href="https://github.com/sergiobsilva/">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiobsilva&show_icons=true&title_color=6DBAFA&text_color=FFFFFF&&bg_color=000000"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=sergiobsilva&show_icons=true&include_all_commits=true&count_private=true&title_color=6DBAFA&text_color=FFFFFF&&bg_color=000000"/>
+  </a>
 
 
-<!--
-**sergiobslvadev/sergiobslvadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Personal Projects
+<br>
 
-Here are some ideas to get you started:
+**[Portfólio Sergio Silva](https://sergiobsilva.github.io/ux/docs/portfolio_2022-2023.pdf)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, Product Designer at Tembici, I'm a UX Designer, Researcher and enthusiast of sciences that study human behavior, such as: Anthropology, Psychology, Neuroscience, Learning Psychology and others. With about 4 years of experience with UX and creating digital products, I worked for about 12 years with Software Development, working from requirements analysis processes (Product Management) to application deployment (Frontend).
+
+Professional UX / UI / Researcher with multiple skills in software development, with maturity to assist in designing quality digital products with a holistic view of software development. Always looking for new knowledge and maturing professionally.
+
+Currently mentoring UX careers in UX Mentory and PretUX initiatives, helping people with their allocation within the UX market and others as well.
+
+Would you like to talk about something? UX, Design, Technology and Research? Talk to me!
+
+
+**[AgilFap 2.0](https://agil.facepe.br/)**
+
+Before prototyping, we collect feedback from users (Internal / External)
+Based on feedbacks we build Proto-Personas we gather and compare previous information, we brought the Steakholders closer, process-based routines and not just personal experiences. We carried out Security & Consistency surveys of information, we brought ways to test prototypes closer to the user's reality!
+
+I worked as UX Research / Product Management / UX Designer / Visual Design / User Interface Design / Dev Frontend
+
+
+**[RegistraPet](https://sergiobsilva.github.io/ux/#)**
+
+The idea was to develop an application that would be able to issue a birth certificate for Pets, for the DF notary.
+The objective of this project was to design the product interface for mobile platform only, developed in web app (react), hybrid app with a single interface for android and ios apps.
+
+Deliverables: interface, icon files, styleguide, user manual and application for developers.
+
+**[DELIV](https://sergiobsilva.github.io/ux/pages/deliv.html)**
+
+Multiplatform mobile app project made in IonicJS, with the purpose of delivering a product interface, with surveys and handoff for project creation.
+
+I worked as UX Research / Product Management / UX Designer / Visual Design / User Interface Design / Dev Frontend
+
+**[Native Landing Page](https://sergiobsilva.github.io/ux/pages/native.html)**
+
+OnePage project for Design studio, aiming to create a conversion product with lead capture page for the studio. The proposal was for a responsive web page, with the proposal only for Interface.
+<br><br>
+
+### Contact <br>
+
+* LinkedIn: [https://www.linkedin.com/in/sergiobslva/](https://www.linkedin.com/in/sergiobslva/)
+* Email: sergiobslva@gmail.com
+* Whatsapp: [+55 61 98501-6770](https://api.whatsapp.com/send?phone=5561985016770)
+<br><br>
+
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+
+<img align="left" alt="Jonathan's Github Stats" src="https://github-readme-stats.vercel
