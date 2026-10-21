@@ -13,10 +13,13 @@
 - ⚡ Fun fact: Marvel Studios
 <br>
 
-### My Development Toolbelt
-<br><img alt="Jira Atlassian" title="" src="https://www.pngfind.com/pngs/m/432-4329261_jira-software-logo-jira-logo-hd-png-download.png" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Figma" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="26">
-&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Adobe" title="Adobe" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-icon.png" height="26">
-&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Photoshop" title="Photoshop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/3840px-Adobe_Photoshop_CC_icon.svg.png" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Marvel" title="Marvel" src="https://bk.ibxk.com.br/2016/2/programas/14944322201055867.png?ims=60x60" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="VS Code" title="VS Code" src="https://user-images.githubusercontent.com/1680157/87443751-492e6900-c5cc-11ea-9854-f82d4d921133.png" height="24">
+### Certificações
+<br><img alt="CSD-UX" title="" src="" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="CSPO" title="" src="" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="IA for PO" title="" src="" height="26">
+
+<br><br>
+
+### Ferramentas e Linguagens
+<br><img alt="Atlassian Jira" title="Atlassian Jira" src="https://www.pngfind.com/pngs/m/432-4329261_jira-software-logo-jira-logo-hd-png-download.png" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Azure DevOps" title="Azure DevOps" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Azure_DevOps_icon.svg/3840px-Azure_DevOps_icon.svg.png" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Bizagi Modeler" title="Bizagi Modeler" src="https://img.utdstc.com/icon/4c9/33c/4c933cb96d4d64170e0c5e0e07e8e6fbc0ad8c2602728b6454f09ac1340e5f64:600" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Visual Paradigm UML" title="Visual Paradigm UML" src="https://static.macupdate.com/products/16945/l/visual-paradigm-logo.png" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Figma" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Adobe" title="Adobe" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-icon.png" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Photoshop" title="Photoshop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/3840px-Adobe_Photoshop_CC_icon.svg.png" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Marvel" title="Marvel" src="https://bk.ibxk.com.br/2016/2/programas/14944322201055867.png?ims=60x60" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="VS Code" title="VS Code" src="https://user-images.githubusercontent.com/1680157/87443751-492e6900-c5cc-11ea-9854-f82d4d921133.png" height="24">
 &nbsp;&nbsp;&nbsp;&nbsp;<img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png" height="24">
 &nbsp;&nbsp;&nbsp;&nbsp;<img alt="CSS" title="CSS" src="https://user-images.githubusercontent.com/1680157/87443759-4a5f9600-c5cc-11ea-8ae0-715433c1f781.png" height="24">
 &nbsp;&nbsp;&nbsp;&nbsp;<img alt="SaSS" title="SaSS" src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/sass.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Bootstrap" title="Bootstrap" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="24">
@@ -28,9 +31,10 @@
 <img alt="MariaDB" title="MariaDB" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/mariadb.webp" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Google Firebase" title="Google Firebase" src="https://images.icon-icons.com/2699/PNG/512/firebase_logo_icon_171157.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="PostGrees" title="PostGrees" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png" height="24">
 <br><br>
 
+
 ### Skills Estratégicas <br>
 
-- [x] Requeriments Analyst & Business
+- [x] Analista de Requisitos e Negócios
 - [x] Visão sistêmica e estratégica do negócio
 - [x] Mapeamento e melhoria contínua de processos
 - [x] Identificação de problemas e análise de causa raiz
@@ -61,6 +65,18 @@
 - [x] **Testes e validação:** apoiar testes funcionais, homologação, validação de requisitos e testes de aceitação do usuário (UAT).
 - [x] **Gestão de riscos e impactos:** avaliar impactos de mudanças nos processos, sistemas e operações.
 - [x] **Ferramentas de trabalho:** utilizar Jira, Confluence, Azure DevOps, Excel, ferramentas de modelagem e documentação.
+- [x] Levantamento, análise e especificação de requisitos.
+- [x] Análise de negócios e mapeamento de processos.
+- [x] Gestão de stakeholders e facilitação de reuniões.
+- [x] Modelagem BPMN e UML.
+- [x] Escrita de histórias de usuário e critérios de aceitação.
+- [x] Gestão e priorização de backlog.
+- [x] Metodologias ágeis: Scrum e Kanban.
+- [x] Documentação funcional e regras de negócio.
+- [x] Análise de impactos, riscos e dependências.
+- [x] Validação de requisitos, testes funcionais e homologação.
+- [x] Comunicação, negociação e pensamento analítico.
+- [x] Ferramentas como Jira, Confluence, Azure DevOps e SQL, conforme a experiência.
 
 <br>
 
