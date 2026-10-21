@@ -1,4 +1,78 @@
-## Hi there 👋
+# Aluno de ADS @ IESB
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/sergiobsilva)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge)](https://wa.link/mnbsyo)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge&link=mailto:sergio.b.silva@iesb.edu.br)](mailto:sergio.b.silva@iesb.edu.br)
+[![HTML5 Badge](https://img.shields.io/badge/Portfolio-E34F26?logo=html5&logoColor=fff&style=for-the-badge)](https://sergiobsilva.github.io/ux/)
+[![Apache Badge](https://img.shields.io/badge/IESB-D22128?logo=apache&logoColor=fff&style=for-the-badge)](https://www.iesb.br/cursos/analise-e-desenvolvimento-de-sistemas/)
+<br>
+
+- 👋 Hi, I’m **@sergiobslva-iesb**
+- 👀 I’m interested in Requeriments Analyst & Business, UX, Frontend  and Tech :)
+- 💞️ I'm looking to collaborate with the construction of tech and UX career mentoring
+- 📫 How to reach me: [61985016770](https://wa.link/mnbsyo)
+- ⚡ Fun fact: Marvel Studios
+<br>
+
+### My Development Toolbelt
+<br><img alt="Figma" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="26">
+&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Adobe" title="Adobe" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-icon.png" height="26">
+&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Photoshop" title="Photoshop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/3840px-Adobe_Photoshop_CC_icon.svg.png" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Marvel" title="Marvel" src="https://bk.ibxk.com.br/2016/2/programas/14944322201055867.png?ims=60x60" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="VS Code" title="VS Code" src="https://user-images.githubusercontent.com/1680157/87443751-492e6900-c5cc-11ea-9854-f82d4d921133.png" height="24">
+&nbsp;&nbsp;&nbsp;&nbsp;<img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png" height="24">
+&nbsp;&nbsp;&nbsp;&nbsp;<img alt="CSS" title="CSS" src="https://user-images.githubusercontent.com/1680157/87443759-4a5f9600-c5cc-11ea-8ae0-715433c1f781.png" height="24">
+&nbsp;&nbsp;&nbsp;&nbsp;<img alt="SaSS" title="SaSS" src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/sass.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Bootstrap" title="Bootstrap" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="24">
+&nbsp;&nbsp;&nbsp;&nbsp;<img alt="jQuery" title="jQuery" src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/jquery.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="TypeScript" title="TypeScript" src="https://user-images.githubusercontent.com/1680157/87443766-4af82c80-c5cc-11ea-8a13-a651f150fa99.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Git" title="Git" src="https://user-images.githubusercontent.com/1680157/87443755-49c6ff80-c5cc-11ea-954a-579f7c72873a.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt=" title=" title="Node.js" src="https://user-images.githubusercontent.com/1680157/87443758-4a5f9600-c5cc-11ea-8f63-92e126a1145b.png" height="24">
+&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Angular" title="Angular" src="https://brandlogos.net/wp-content/uploads/2025/04/angular_icon-logo_brandlogos.net_jn7wi.png" height="26">&nbsp;&nbsp;<img alt="React" title="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/3840px-React-icon.svg.png" height="26">&nbsp;&nbsp;
+<img alt="Docker" title="Docker" src="https://skillicons.dev/icons?i=docker" height="26">&nbsp;&nbsp;<img alt="AWS" title="AWS" src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/aws.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="MongoDB" title="MongoDB" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/mongodb.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="MySQL" title="MySQL" src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/mysql.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="MariaDB" title="MariaDB" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/mariadb.webp" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Google Firebase" title="Google Firebase" src="https://images.icon-icons.com/2699/PNG/512/firebase_logo_icon_171157.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="PostGrees" title="PostGrees" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png" height="24">
+<br><br>
+
+### Disciplines
+
+###### [![Faculdade Badge](https://img.shields.io/badge/-CONCLUÍDO-lime)]() Semestre I - 01/2024
+- [x] [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() [RCT002 | Lógica de Programação](https://github.com/RCT002-Logica-de-Programacao)
+- [x] [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-white?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/alessandroborgesoficial/)](https://www.linkedin.com/in/alessandroborgesoficial/) [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() [ADS025 | Banco de Dados SQL e NoSQL](https://github.com/ADS025-Banco-de-Dados-SQL-e-no-SQL)
+- [x] [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-white?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/elias-filho-25b6a875/)](https://www.linkedin.com/in/elias-filho-25b6a875/) [![Nota Badge](https://img.shields.io/badge/-SS-YELLOWGREEN)]() [ADS009 | Projeto de Interface](https://github.com/ADS009-Projeto-de-Interface)
+- [x] [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-white?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/rubens-laurini-sant-anna-76645b26/)](https://www.linkedin.com/in/rubens-laurini-sant-anna-76645b26/) [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() HMDC134 | Levantamento de Requisitos e Modelagem de Processos
+- [x] [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() MDCI135 | Fundamentos de Lógica
+
+###### [![Faculdade Badge](https://img.shields.io/badge/-CONCLUÍDO-lime)]() Semestre II - 02/2024 
+- [ ] [![Nota Badge](https://img.shields.io/badge/-MI-red)]() ADS042 | Probabilidade e Estatística
+- [x] [![Nota Badge](https://img.shields.io/badge/-MM-silver)]() ADS026 | Redes de Computadores
+- [x] [![Nota Badge](https://img.shields.io/badge/-MM-silver)]() ADS027 | Sistemas Operacionais
+- [x] [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() HMDC153 | Arquitetura de Computadores
+- [x] [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() MDCI082 | Tópicos de Matemática
+
+##### [![Faculdade Badge](https://img.shields.io/badge/-CONCLUÍDO-lime)]()  Semetre III - 01/2025
+- [x] [![Nota Badge](https://img.shields.io/badge/-MM-silver)]() [ADS023 | Programação para Dispositivos Móveis](https://github.com/ADS023-Programacao-Dispositivos-Moveis)
+- [ ] [![Nota Badge](https://img.shields.io/badge/-MI-red)]() [ADS033 | Aprendizagem de Máquina](https://github.com/ADS033-Aprendizagem-de-Maquina)
+- [x] [![Nota Badge](https://img.shields.io/badge/-MM-silver)]() [ADS035 | Métricas e Arquitetura de Software](https://github.com/ADS035-Metricas-e-Arquitetura-de-Soft)
+- [x] [![Nota Badge](https://img.shields.io/badge/-SS-YELLOWGREEN)]() GEX011 | Projeto de Extensão na Educação Superior
+- [x] [![Nota Badge](https://img.shields.io/badge/-MM-silver)]() HMDC156 | Auditoria e Segurança no Desenvolvimento de Aplicações
+- [x] [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() MDCI057 | Empreendedorismo e Gestão de Carreira
+
+##### [![Faculdade Badge](https://img.shields.io/badge/-EM_ANDAMENTO-gold)]() Semetre IV - 02/2025
+- [ ] ADS022 | Eletiva
+- [ ] [ADS028 | Construção de Backend](https://github.com/ADS028-Contrucao-de-Backend)
+- [ ] [SIF005 | Estrutura de Dados](https://github.com/SIF005-Estrutura-de-Dados)
+- [ ] ADS034 | Engenharia de Software e Métodos Ágeis
+- [ ] GEX009 | Projeto de Extensão na Educação Superior
+- [ ] HMDC154 | Gerenciamento de Projetos e do Conhecimento
+
+##### [![Faculdade Badge](https://img.shields.io/badge/-NÃO_CURSADO-red)]() Semetre V (FINAL) - 01/2026
+- [ ] ADS030 | Manutenção de Software e DevOps
+- [ ] ADS032 | Construção de Frontend
+- [ ] ADS040 | Business Intelligence e Data Warehousing
+- [ ] GEX010 | Projeto de Extensão na Educação Superior
+- [ ] HMDC155 | Governança de TI
+- [ ] MDCI023 | Direitos Humanos e Ambientais
+
+<!---
+sergiobslvadev/sergiobslvadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 
 <!--
 **sergiobslvadev/sergiobslvadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
