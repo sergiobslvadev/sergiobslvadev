@@ -6,20 +6,26 @@
 [![Apache Badge](https://img.shields.io/badge/IESB-D22128?logo=apache&logoColor=fff&style=for-the-badge)](https://www.iesb.br/cursos/analise-e-desenvolvimento-de-sistemas/)
 <br>
 
-- 👋 Hi, I’m **@sergiobslvadev**
-- 👀 I’m interested in Requeriments Analyst & Business, UX, Frontend  and Tech :)
-- 💞️ I'm looking to collaborate with the construction of tech and UX career mentoring
-- 📫 How to reach me: [61985016770](https://wa.link/mnbsyo)
-- ⚡ Fun fact: Marvel Studios
+- 👋 Olá, eu sou **@sergiobslvadev**
+- 👀 Atuo nas áreas de **Análise de Requisitos** e Negócios, UX, Frontend e Tecnologia :)
+- 💞️ Busco colaborar na construção de mentorias para carreiras em Tecnologia e UX.
+- 📫 Como entrar em contato comigo: 61985016770
+- ⚡ Fã de: Marvel Studios / Games Retro (SNES).
 <br>
 
-### Certificações
-<br><img alt="CSD-UX" title="" src="" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="CSPO" title="" src="" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="IA for PO" title="" src="" height="26">
+### Certificações de Agilidade®
+<br><img alt="CSD-UX" title="CSD-UX" src="https://improvee.com.br/wp-content/uploads/2024/07/sa-csd-600-540x540.png" height="52">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="CSPO" title="CSPO" src="https://www.scrumalliance.org/images/badgelibraryprovider/default-album/sa-cspo-300.png" height="52">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="IA for PO" title="IA for PO" src="https://www.scrumalliance.org/badges/sa-ai_for_product_owners-300.png" height="52">
 
 <br><br>
 
 ### Ferramentas e Linguagens
-<br><img alt="Atlassian Jira" title="Atlassian Jira" src="https://www.pngfind.com/pngs/m/432-4329261_jira-software-logo-jira-logo-hd-png-download.png" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Azure DevOps" title="Azure DevOps" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Azure_DevOps_icon.svg/3840px-Azure_DevOps_icon.svg.png" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Bizagi Modeler" title="Bizagi Modeler" src="https://img.utdstc.com/icon/4c9/33c/4c933cb96d4d64170e0c5e0e07e8e6fbc0ad8c2602728b6454f09ac1340e5f64:600" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Visual Paradigm UML" title="Visual Paradigm UML" src="https://static.macupdate.com/products/16945/l/visual-paradigm-logo.png" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Figma" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Adobe" title="Adobe" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-icon.png" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Photoshop" title="Photoshop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/3840px-Adobe_Photoshop_CC_icon.svg.png" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Marvel" title="Marvel" src="https://bk.ibxk.com.br/2016/2/programas/14944322201055867.png?ims=60x60" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="VS Code" title="VS Code" src="https://user-images.githubusercontent.com/1680157/87443751-492e6900-c5cc-11ea-9854-f82d4d921133.png" height="24">
+#### Requisitos e Negócios
+<br><img alt="Atlassian Jira" title="Atlassian Jira" src="https://www.pngfind.com/pngs/m/432-4329261_jira-software-logo-jira-logo-hd-png-download.png" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Azure DevOps" title="Azure DevOps" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Azure_DevOps_icon.svg/3840px-Azure_DevOps_icon.svg.png" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Bizagi Modeler" title="Bizagi Modeler" src="https://img.utdstc.com/icon/4c9/33c/4c933cb96d4d64170e0c5e0e07e8e6fbc0ad8c2602728b6454f09ac1340e5f64:600" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Visual Paradigm UML" title="Visual Paradigm UML" src="https://static.macupdate.com/products/16945/l/visual-paradigm-logo.png" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Figma" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="26">
+
+<br>
+
+#### Design e Desenvolvimento
+<br><img alt="Adobe" title="Adobe" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-icon.png" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Photoshop" title="Photoshop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/3840px-Adobe_Photoshop_CC_icon.svg.png" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Marvel" title="Marvel" src="https://bk.ibxk.com.br/2016/2/programas/14944322201055867.png?ims=60x60" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="VS Code" title="VS Code" src="https://user-images.githubusercontent.com/1680157/87443751-492e6900-c5cc-11ea-9854-f82d4d921133.png" height="24">
 &nbsp;&nbsp;&nbsp;&nbsp;<img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png" height="24">
 &nbsp;&nbsp;&nbsp;&nbsp;<img alt="CSS" title="CSS" src="https://user-images.githubusercontent.com/1680157/87443759-4a5f9600-c5cc-11ea-8ae0-715433c1f781.png" height="24">
 &nbsp;&nbsp;&nbsp;&nbsp;<img alt="SaSS" title="SaSS" src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/sass.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Bootstrap" title="Bootstrap" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="24">
