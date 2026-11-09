@@ -105,10 +105,8 @@
 ### Top Languages (Frontend)
 
 <!-- Top Languages -->
-  <a href="https://github.com/sergiobsilva/">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiobsilva&show_icons=true&title_color=6DBAFA&text_color=FFFFFF&&bg_color=000000"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=sergiobsilva&show_icons=true&include_all_commits=true&count_private=true&title_color=6DBAFA&text_color=FFFFFF&&bg_color=000000"/>
-  </a>
+<img alt="Angular" title="Angular" src="https://brandlogos.net/wp-content/uploads/2025/04/angular_icon-logo_brandlogos.net_jn7wi.png" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="React" title="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/3840px-React-icon.svg.png" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="TypeScript" title="TypeScript" src="https://user-images.githubusercontent.com/1680157/87443766-4af82c80-c5cc-11ea-8a13-a651f150fa99.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="24">
+
 
 
 ### My Personal Projects
